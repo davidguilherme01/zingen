@@ -92,6 +92,12 @@ a:hover {
 ul[role="list"] {
     list-style: none;
 }
+
+img {
+        max-width: 100%;
+        display: inline-block;
+    }
+
 /* responsividade começa aqui */
 
 /* para dispositivos com mais que 80em ( 1280px de largura) */
