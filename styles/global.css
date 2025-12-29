@@ -53,6 +53,8 @@ html {
     color: var(--text-color-primary);
 
     overflow-x: hidden; /*rolamento*/
+
+    scroll-behavior: smooth; /* Rolamento suave */
 }
 
 body {
